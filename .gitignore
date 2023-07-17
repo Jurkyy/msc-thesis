@@ -1,0 +1,8 @@
+.idea
+__pycache__/
+venv
+resources
+AISY_venv/
+*.sh
+.env
+datasets/*
